@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.11.0",
+  "startedAt":  "2025-02-27T13:53:17.061484Z",
+  "program":  "e:\\Mtech\\2nd Sem\\Deep Learning\\Assignment 1\\da6401_assignment1\\Assignment1.ipynb",
+  "codePath":  "Assignment1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/DineshKatravath/da6401_assignment1.git",
+    "commit":  "f4cf62c92d0c4fc9a73673b7c3e0c7d58a75cbfb"
+  },
+  "email":  "cs24m018@smail.iitm.ac.in",
+  "root":  "e:\\Mtech\\2nd Sem\\Deep Learning\\Assignment 1\\da6401_assignment1",
+  "host":  "Dinesh09",
+  "executable":  "c:\\Python311\\python.exe",
+  "codePathLocal":  "Assignment1.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "333237448704",
+      "used":  "49600040960"
+    }
+  },
+  "memory":  {
+    "total":  "8459706368"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
