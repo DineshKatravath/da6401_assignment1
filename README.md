@@ -38,10 +38,6 @@ How to pass arguments:
 |-a, --activation|relu|	choices: ["identity", "sigmoid", "tanh", "relu"]|
 
 
-## Neaural networks class:
-model is called as follows from below class
-model = feedForwardNeuralNetwork(inputSize=784,hiddenSize=128,hiddenLayerCount=3,outputSize=10,batchSize=32,learningRate=1e-4,initMode = "xavier", optimiser = "adam", activationFunc="relu",weightDecay = 0.0005,lossFunc = "crossEntropyLoss", epochs = 10,dataset="fashionMNIST")
-
 ## possible optimisation functions are 
 - sgd
 - momentum based gradient descent
