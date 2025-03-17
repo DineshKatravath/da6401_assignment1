@@ -1,8 +1,0 @@
-{"time":"2025-02-27T18:44:08.2216226+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"e:\\Mtech\\2nd Sem\\Deep Learning\\Assignment 1\\da6401_assignment1\\wandb\\run-20250227_184407-r6mkx3qq\\logs\\debug-core.log"}
-{"time":"2025-02-27T18:44:09.387887+05:30","level":"INFO","msg":"created new stream","id":"r6mkx3qq"}
-{"time":"2025-02-27T18:44:09.3900065+05:30","level":"INFO","msg":"stream: started","id":"r6mkx3qq"}
-{"time":"2025-02-27T18:44:09.3894773+05:30","level":"INFO","msg":"handler: started","stream_id":"r6mkx3qq"}
-{"time":"2025-02-27T18:44:09.3913277+05:30","level":"INFO","msg":"sender: started","stream_id":"r6mkx3qq"}
-{"time":"2025-02-27T18:44:09.3913277+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"r6mkx3qq"}
-{"time":"2025-02-27T18:44:10.2386796+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
-{"time":"2025-02-27T18:44:10.2386796+05:30","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 404 Not Found: {\"errors\":[{\"message\":\"entity my-awesome-team-name not found during upsertBucket\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
