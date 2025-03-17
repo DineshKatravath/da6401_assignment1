@@ -1,6 +1,6 @@
 # DA6401_assignment1
 
-wandb report link :- https://wandb.ai/cs24m018-iitmaana/DA6401%20Assignment1/reports/DA6401-Assignment-1-Report-CS24M018--VmlldzoxMTY5NDQ5Mw
+wandb report link :- https://wandb.ai/cs24m018-iitmaana/DA6401%20Assignment1/reports/DA6401-Assignment-1-Report-CS24M018--VmlldzoxMTY5NDQ5Mw?accessToken=1005wqn5z03377uqtbo1j327vo3e2ov4bbox37r9upz8ezeanqk69jdygqtw6qb4
 
 ## General Instructions :
 
